@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="bg-black h-screen p-3">
       <div className="mx-auto max-w-[750px] min-h-[550px] shadow-2xl bg-slate-50 rounded-xl">
-        <Input />
+        <Input/>
       </div>
     </div>
   );
